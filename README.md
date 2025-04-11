@@ -72,8 +72,9 @@ To fine tune a pre trained model (Eg: VGG16) on a subset of `iNaturalist dataset
 - Run `PartB/DL-Assignmnet2-Task2.ipynb`
 
 These jupyter files expect the Dataset to be present in the same directory: 
-Directory Structure:
+
 ```python
+Directory Structure:
 - inaturalist_12K/train
 - inaturalist_12K/test
 - DL-Assignmnet2-Task2.ipynb
