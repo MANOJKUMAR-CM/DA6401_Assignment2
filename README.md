@@ -66,3 +66,13 @@ Before running the sweep, update the following command with your own WandB crede
 ```python
 wandb.sweep(sweep_config, entity="<your_name>", project="<your_project_name>")
 ```
+
+### Part B
+To fine tune a pre trained model (Eg: VGG16) on a subset of `iNaturalist dataset`
+- Run `PartB/DL-Assignmnet2-Task2.ipynb`
+
+These jupyter files expect the Dataset to be present in the same directory: 
+```python
+inaturalist_12K/train
+inaturalist_12K/test
+```
