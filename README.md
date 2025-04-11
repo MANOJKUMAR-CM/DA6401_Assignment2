@@ -57,3 +57,6 @@ To perform the hyper parameter sweep on the CNN model:
 
   ```
 
+To Train the model on the best hyperparameters obtained from the sweeps:
+- Run `PartA/DL-Assignment2-Task1.ipynb`, It would train the model, predict on test set and save a `.png` file which would contain the model's prediction on a random set of 30 samples from test set.
+  
