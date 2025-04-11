@@ -11,3 +11,8 @@ This repository contains files for Assignment 2 of the course DA6401 - Introduct
 ## [Wandb Report](To be completed)
 
 ## [Github: Assignment2 - DA6401](https://github.com/MANOJKUMAR-CM/DA6401_Assignment2)
+
+### Part A
+To perform the hyper parameter sweep on the CNN model:
+- Run `PartA/DL-Assignment2-Task1-HyperParameterSweep.ipynb`, make sure to update `wandb.sweep()` with your own wandb credentials before running.
+
