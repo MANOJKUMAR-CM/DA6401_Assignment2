@@ -10,4 +10,4 @@ This repository contains files for Assignment 2 of the course DA6401 - Introduct
 
 ## [Wandb Report](To be completed)
 
-## [Github: Assignment1 - DA6401](https://github.com/MANOJKUMAR-CM/DA6401_Assignment2)
+## [Github: Assignment2 - DA6401](https://github.com/MANOJKUMAR-CM/DA6401_Assignment2)
