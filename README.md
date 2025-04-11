@@ -54,6 +54,6 @@ To perform the hyper parameter sweep on the CNN model:
             "values": ["relu", "gelu", "silu", "mish", "tanh"]
         }
     }
-}
+
   ```
 
