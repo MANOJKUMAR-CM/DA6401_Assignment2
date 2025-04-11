@@ -3,5 +3,5 @@ This repository contains files for Assignment 2 of the course DA6401 - Introduct
 
 ## Assignment Overview  
 ### Objective:
-- To build and train a CNN model from scratch
-- To fine tune a pre trained Model
+- Part A: To build and train a CNN model from scratch
+- Part B: To fine tune a pre trained Model
