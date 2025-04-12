@@ -8,7 +8,7 @@ This repository contains files for Assignment 2 of the course DA6401 - Introduct
 
 ## Links:
 
-## [Wandb Report](To be completed)
+## [Wandb Report](https://wandb.ai/manoj_da24s018-iit-madras/CNN-inaturalist_12K-HyperParameterSweep-Trail1/reports/DA6401-Assignment-2--VmlldzoxMjE5MTYyMA?accessToken=j8kzktlay7gghy82kkeoqmq3dsew8olvvo0cktec9ah0z3xk39bvayy8837tzz5p)
 
 ## [Github: Assignment2 - DA6401](https://github.com/MANOJKUMAR-CM/DA6401_Assignment2)
 
